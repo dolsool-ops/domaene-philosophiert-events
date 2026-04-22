@@ -1,0 +1,65 @@
+name: Scrape events
+
+on:
+  schedule:
+    - cron: "0 5 * * *"      # 05:00 UTC (06:00–07:00 DE je nach DST)
+  workflow_dispatch: {}        # manuelles Starten via Actions-Tab
+
+permissions:
+  contents: write              # commit events.json
+  issues: write                # issue bei Fehler
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        id: scrape
+        run: python scraper.py
+
+      - name: Commit if changed
+        if: success()
+        run: |
+          if git diff --quiet events.json 2>/dev/null; then
+            echo "No changes to events.json — skipping commit."
+          else
+            git config user.name  "events-bot"
+            git config user.email "actions@github.com"
+            git add events.json
+            git commit -m "chore: update events ($(date -u +%Y-%m-%d))"
+            git push
+          fi
+
+      - name: Open issue on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const run = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+            const title = `Scraper fehlgeschlagen — ${new Date().toISOString().slice(0,10)}`;
+            const body  = [
+              `Der tägliche Scraper hat einen Fehler geworfen.`,
+              ``,
+              `👉 **Run-Log:** ${run}`,
+              ``,
+              `Haeufigste Ursachen:`,
+              `- Uni-Seite hat HTML umgebaut → Selektoren in \`scraper.py\` anpassen`,
+              `- Uni-Seite temporaer offline → einfach naechsten Lauf abwarten`,
+              `- Netzwerkfehler bei GitHub Actions → naechsten Lauf abwarten`,
+            ].join("\n");
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title, body,
+              labels: ["scraper-failure"],
+            });

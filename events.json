@@ -32,14 +32,6 @@
     "sort_key": "2026-04-28"
   },
   {
-    "date": "28. April 2026",
-    "title": "Transatlantic Resonances: Philosophical Entanglements between Africa and the Americas (Lecture Series)",
-    "location": "Institut für Philosophie",
-    "url": "https://www.uni-hildesheim.de/neuigkeiten/transatlantic-resonances-philosophical-entanglements-between-africa-and-the-americas-lecture-series/",
-    "source": "institut",
-    "sort_key": "2026-04-28"
-  },
-  {
     "date": "05. Mai 2026",
     "title": "Cosmopolitical Encounters in the Americas and Beyond: Ecology, Indigenous Knowledge, and Philosophy",
     "location": "Institut für Philosophie",
@@ -64,11 +56,11 @@
     "sort_key": "2026-05-14"
   },
   {
-    "date": "19.05.2026",
-    "title": "Migrating Ideas from East to West: Kamaladevi Chattopadhyay on the Race Question (Priyanka Jha)",
-    "location": "GloPhi",
-    "url": "https://www.uni-hildesheim.de/glophi/event/migrating-ideas-from-east-to-west-kamaladevi-chattopadhyay-on-the-race-question-priyanka-jha/",
-    "source": "glophi",
+    "date": "19. Mai 2026",
+    "title": "Migrating Ideas from East to West: Kamaladevi Chattopadhyhay on the Race Question",
+    "location": "Institut für Philosophie",
+    "url": "https://www.uni-hildesheim.de/neuigkeiten/migrating-ideas-from-east-to-west-kamaladevi-chattopadhyhay-on-the-race-question/",
+    "source": "institut",
     "sort_key": "2026-05-19"
   },
   {
@@ -78,6 +70,14 @@
     "url": "https://www.uni-hildesheim.de/glophi/event/on-the-affective-moods-of-being-a-philosophical-exploration-of-affects-in-ibrahim-niasses-thought/",
     "source": "glophi",
     "sort_key": "2026-05-28"
+  },
+  {
+    "date": "10.–14.08.2026",
+    "title": "Practices of Epoché: A Phenomenological Retreat",
+    "location": "GloPhi",
+    "url": "https://www.uni-hildesheim.de/glophi/event/practices-of-epoche-a-phenomenological-retreat/",
+    "source": "glophi",
+    "sort_key": "2026-08-10"
   },
   {
     "date": "24.–28.08.2026",

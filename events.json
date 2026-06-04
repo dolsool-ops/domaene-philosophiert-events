@@ -64,8 +64,16 @@
     "sort_key": "2026-06-01"
   },
   {
+    "date": "25.–26.06.2026",
+    "title": "Phänomenologie der Situation &amp; Situierte Lektüren",
+    "location": "GloPhi",
+    "url": "https://www.uni-hildesheim.de/glophi/event/phanomenologie-der-situation-situierte-lekturen/",
+    "source": "glophi",
+    "sort_key": "2026-06-25"
+  },
+  {
     "date": "10.–14.08.2026",
-    "title": "Practices of Epoché: A Phenomenological Retreat",
+    "title": "Practices of Epoché: A Phenomenological Retreat (Summer School)",
     "location": "GloPhi",
     "url": "https://www.uni-hildesheim.de/glophi/event/practices-of-epoche-a-phenomenological-retreat/",
     "source": "glophi",
@@ -78,6 +86,14 @@
     "url": "https://www.uni-hildesheim.de/glophi/event/healing-as-a-philosophical-practice-summer-school/",
     "source": "glophi",
     "sort_key": "2026-08-24"
+  },
+  {
+    "date": "10.09.2026",
+    "title": "Forests and Rivers: Rethinking Relation and Representation in Philosophy (Workshop)",
+    "location": "GloPhi",
+    "url": "https://www.uni-hildesheim.de/glophi/event/forests-and-rivers-rethinking-relation-and-representation-in-philosophy-workshop/",
+    "source": "glophi",
+    "sort_key": "2026-09-10"
   },
   {
     "date": "05.–06.10.2026",

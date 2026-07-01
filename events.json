@@ -16,14 +16,6 @@
     "sort_key": "2026-06-01"
   },
   {
-    "date": "01. Juni 2026",
-    "title": "African and Afro-Brazilian Epistemic Continueties. A Transcontinental Pendulum",
-    "location": "Institut für Philosophie",
-    "url": "https://www.uni-hildesheim.de/neuigkeiten/african-and-afro-brazilian-epistemic-continueties-a-transcontinental-pendulum/",
-    "source": "institut",
-    "sort_key": "2026-06-01"
-  },
-  {
     "date": "08. Juni 2026",
     "title": "From Utopia to Dystopia? An Account of African Liberation Philosophy",
     "location": "Institut für Philosophie",
@@ -64,12 +56,20 @@
     "sort_key": "2026-06-22"
   },
   {
-    "date": "30.06.2026",
-    "title": "The Black Atlantic and the Americas: Cultural Theory and Philosophy (Markus Heide)",
-    "location": "GloPhi",
-    "url": "https://www.uni-hildesheim.de/glophi/event/the-black-atlantic-and-the-americas-cultural-theory-and-philosophy-markus-heide/",
-    "source": "glophi",
+    "date": "30. Juni 2026",
+    "title": "The Black Atlantic and the Americas",
+    "location": "Institut für Philosophie",
+    "url": "https://www.uni-hildesheim.de/neuigkeiten/the-black-atlantic-and-the-americas/",
+    "source": "institut",
     "sort_key": "2026-06-30"
+  },
+  {
+    "date": "05.07.2026",
+    "title": "DEADLINE Forests and Rivers (Workshop) – Call for Papers",
+    "location": "GloPhi",
+    "url": "https://www.uni-hildesheim.de/glophi/event/deadline-forests-and-rivers-workshop-call-for-papers/",
+    "source": "glophi",
+    "sort_key": "2026-07-05"
   },
   {
     "date": "10.–14.08.2026",

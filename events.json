@@ -17,43 +17,67 @@
   },
   {
     "date": "05.11.2026",
-    "title": "Thinking Between Philosophy and Anthropology (Ernst Halbmayer &amp; Falk Parra-Witte)",
+    "title": "Isthmo-Colombian Amerindian Ontologies (Ernst Halbmayer &amp; Falk Parra-Witte)",
     "location": "GloPhi",
     "url": "https://www.uni-hildesheim.de/glophi/event/debate-on-the-interconnections-between-philosophy-and-anthropology-ernst-halbmayer-falk-parra-witte/",
     "source": "glophi",
     "sort_key": "2026-11-05"
   },
   {
+    "date": "06.11.2026",
+    "title": "Research Talk: Philosophy and Anthropology (Falk Parra-Witte)",
+    "location": "GloPhi",
+    "url": "https://www.uni-hildesheim.de/glophi/event/research-talk-philosophy-and-anthropology-falk-parra-witte/",
+    "source": "glophi",
+    "sort_key": "2026-11-06"
+  },
+  {
     "date": "12.11.2026",
-    "title": "Arabic Philosophies of Language (Nadja Germann)",
+    "title": "Intercultural Philosophizing in Mesoamérica and the Andes (Kata Beilin &amp; Osiris González Romero)",
     "location": "GloPhi",
     "url": "https://www.uni-hildesheim.de/glophi/event/discussion-about-arabic-philosophies-of-language-nadja-germann/",
     "source": "glophi",
     "sort_key": "2026-11-12"
   },
   {
+    "date": "13.11.2026",
+    "title": "Philosophizing Through Images (Rolf Elberfeld, Abbed Kanoor, Birgit Benzing)",
+    "location": "GloPhi",
+    "url": "https://www.uni-hildesheim.de/glophi/event/philosophizing-through-images-rolf-elberfeld-abbed-kanoor-birgit-benzing/",
+    "source": "glophi",
+    "sort_key": "2026-11-13"
+  },
+  {
     "date": "19.11.2026",
-    "title": "The Misuse of Philosophy in India (Divya Dwivedi)",
+    "title": "Misuse of Philosophy in India (Divya Dwivedi)",
     "location": "GloPhi",
     "url": "https://www.uni-hildesheim.de/glophi/event/debate-on-the-misuse-of-philosophy-in-india-divya-dwivedi/",
     "source": "glophi",
     "sort_key": "2026-11-19"
   },
   {
+    "date": "20.11.2026",
+    "title": "Philosophical Nationalism (Divya Dwivedi)",
+    "location": "GloPhi",
+    "url": "https://www.uni-hildesheim.de/glophi/event/philosophical-nationalism-divya-dwivedi/",
+    "source": "glophi",
+    "sort_key": "2026-11-20"
+  },
+  {
     "date": "26.11.2026",
-    "title": "Oral Forms of Philosophizing: Findings from the Volume “Can One Philosophize with the Body?” (Anke Graness, Leon Krings, Sool Park, Lindokuhle Shabane)",
+    "title": "Oral Forms of Philosophizing (Anke Graness)",
     "location": "GloPhi",
     "url": "https://www.uni-hildesheim.de/glophi/event/oral-forms-of-philosophizing-findings-from-the-volume-can-one-philosophize-with-the-body-anke-graness-leon-krings-sool-park-lindokuhle-shabane/",
     "source": "glophi",
     "sort_key": "2026-11-26"
   },
   {
-    "date": "03.12.2026",
-    "title": "Polylogue as a Method of Intercultural Philosophizing (Nadja Germann &amp; Osiris González Romero)",
+    "date": "27.11.2026",
+    "title": "Can One Philosophize with the Body? (Rutte Andrade, Sool Park, Leon Krings)",
     "location": "GloPhi",
-    "url": "https://www.uni-hildesheim.de/glophi/event/polylogue-as-a-method-of-intercultural-philosophizing-nadja-germann-osiris-gonzalez-romero/",
+    "url": "https://www.uni-hildesheim.de/glophi/event/can-one-philosophize-with-the-body-rutte-andrade-sool-park-leon-krings/",
     "source": "glophi",
-    "sort_key": "2026-12-03"
+    "sort_key": "2026-11-27"
   },
   {
     "date": "10.12.2026",
@@ -64,43 +88,75 @@
     "sort_key": "2026-12-10"
   },
   {
-    "date": "17.12.2026",
-    "title": "Anti-Racist Philosophizing (Andrea Esser)",
+    "date": "11.12.2026",
+    "title": "Collaborative Philosophizing (Barbara Schellhammer &amp; Nadja Germann)",
     "location": "GloPhi",
-    "url": "https://www.uni-hildesheim.de/glophi/event/anti-racist-philosophizing-andrea-esser/",
+    "url": "https://www.uni-hildesheim.de/glophi/event/collaborative-philosophizing-barbara-schellhammer-nadja-germann/",
+    "source": "glophi",
+    "sort_key": "2026-12-11"
+  },
+  {
+    "date": "17.12.2026",
+    "title": "Philosophizing from an Anti-Racist Perspective (Andrea Esser)",
+    "location": "GloPhi",
+    "url": "https://www.uni-hildesheim.de/glophi/event/philosophizing-from-an-anti-racist-perspective-andrea-esser/",
     "source": "glophi",
     "sort_key": "2026-12-17"
   },
   {
-    "date": "07.01.2027",
-    "title": "Philosophy in Mexico and Indigenous Philosophizing (Osiris González Romero, Lorena Grigoletto, Kata Beilin)",
+    "date": "18.12.2026",
+    "title": "Research Talk with Andrea Esser",
     "location": "GloPhi",
-    "url": "https://www.uni-hildesheim.de/glophi/event/philosophy-in-mexico-and-indigenous-philosophizing-osiris-gonzalez-romero-lorena-grigoletto-kata-beilin/",
+    "url": "https://www.uni-hildesheim.de/glophi/event/research-talk-with-andrea-esser/",
+    "source": "glophi",
+    "sort_key": "2026-12-18"
+  },
+  {
+    "date": "07.01.2027",
+    "title": "Philosophy of Language in the Arabic Speaking World (Nadja Germann)",
+    "location": "GloPhi",
+    "url": "https://www.uni-hildesheim.de/glophi/event/philosophy-of-language-in-the-arabic-speaking-world-nadja-germann/",
     "source": "glophi",
     "sort_key": "2027-01-07"
   },
   {
-    "date": "14.01.2027",
-    "title": "The Concept of Philosophy in a Global Perspective (Stefan Gosepath &amp; Rolf Elberfeld)",
+    "date": "08.01.2027",
+    "title": "Research Talk with Nadja Germann",
     "location": "GloPhi",
-    "url": "https://www.uni-hildesheim.de/glophi/event/the-concept-of-philosophy-in-a-global-perspective-stefan-gosepath-rolf-elberfeld/",
+    "url": "https://www.uni-hildesheim.de/glophi/event/research-talk-with-nadja-germann/",
+    "source": "glophi",
+    "sort_key": "2027-01-08"
+  },
+  {
+    "date": "14.01.2027",
+    "title": "The Concept of Philosophy in “Global Philosophy” (Stefan Gosepath)",
+    "location": "GloPhi",
+    "url": "https://www.uni-hildesheim.de/glophi/event/the-concept-of-philosophy-in-global-philosophy-stefan-gosepath/",
     "source": "glophi",
     "sort_key": "2027-01-14"
   },
   {
-    "date": "28.01.2027",
-    "title": "Curriculums of Philosophy (Anne Burkert)",
+    "date": "15.01.2027",
+    "title": "Research Talk with Stefan Gosepath",
     "location": "GloPhi",
-    "url": "https://www.uni-hildesheim.de/glophi/event/curriculums-of-philosophy-anne-burkert/",
+    "url": "https://www.uni-hildesheim.de/glophi/event/research-talk-with-stefan-gosepath/",
+    "source": "glophi",
+    "sort_key": "2027-01-15"
+  },
+  {
+    "date": "28.01.2027",
+    "title": "Teaching Philosophy and Curriculum Transformation (Anne Burkard)",
+    "location": "GloPhi",
+    "url": "https://www.uni-hildesheim.de/glophi/event/teaching-philosophy-and-curriculum-transformation-anne-burkard/",
     "source": "glophi",
     "sort_key": "2027-01-28"
   },
   {
-    "date": "04.02.2027",
-    "title": "Scriptorics: Thinking in Hieroglyphs, Chinese Characters, and Aztec Glyphs (Amr El Hawary, Leon Krings, Osiris González Romero)",
+    "date": "29.01.2027",
+    "title": "Research Talk with Anne Burkard",
     "location": "GloPhi",
-    "url": "https://www.uni-hildesheim.de/glophi/event/scriptorics-thinking-in-hieroglyphs-chinese-characters-and-aztec-ideographs-amr-el-hawary-leon-krings-osiris-gonzalez-romero/",
+    "url": "https://www.uni-hildesheim.de/glophi/event/research-talk-with-anne-burkard/",
     "source": "glophi",
-    "sort_key": "2027-02-04"
+    "sort_key": "2027-01-29"
   }
 ]

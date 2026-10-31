@@ -1,13 +1,5 @@
 [
   {
-    "date": "30.10.2026",
-    "title": "The World Tree: Humans, Trees and Creation on the Sierra Nevada de Santa Marta (Falk Parra-Witte)",
-    "location": "GloPhi",
-    "url": "https://www.uni-hildesheim.de/glophi/event/workshop-thinking-knowledge-and-language-with-kogi-spiritual-leaders/",
-    "source": "glophi",
-    "sort_key": "2026-10-30"
-  },
-  {
     "date": "03.11.2026",
     "title": "Workshop: “Thinking, Knowledge and Language” (Kogi Spiritual Leaders)",
     "location": "GloPhi",
@@ -158,5 +150,13 @@
     "url": "https://www.uni-hildesheim.de/glophi/event/research-talk-with-anne-burkard/",
     "source": "glophi",
     "sort_key": "2027-01-29"
+  },
+  {
+    "date": "04.02.2027",
+    "title": "Scriptorics: Hieroglyphs, Chinese Characters, Aztec Glyphs (Amr El Hawary, Leon Krings, Osiris Romero Gonzales)",
+    "location": "GloPhi",
+    "url": "https://www.uni-hildesheim.de/glophi/event/scriptorics-hieroglyphs-chinese-characters-aztec-glyphs-amr-el-hawary-leon-krings-osiris-romero-gonzales/",
+    "source": "glophi",
+    "sort_key": "2027-02-04"
   }
 ]

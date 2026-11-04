@@ -1,13 +1,5 @@
 [
   {
-    "date": "03.11.2026",
-    "title": "Workshop: “Thinking, Knowledge and Language” (Kogi Spiritual Leaders)",
-    "location": "GloPhi",
-    "url": "https://www.uni-hildesheim.de/glophi/event/workshop-thinking-knowledge-and-language-kogi-spiritual-leaders/",
-    "source": "glophi",
-    "sort_key": "2026-11-03"
-  },
-  {
     "date": "05.11.2026",
     "title": "Isthmo-Colombian Amerindian Ontologies (Ernst Halbmayer &amp; Falk Parra-Witte)",
     "location": "GloPhi",
@@ -158,5 +150,13 @@
     "url": "https://www.uni-hildesheim.de/glophi/event/scriptorics-hieroglyphs-chinese-characters-aztec-glyphs-amr-el-hawary-leon-krings-osiris-romero-gonzales/",
     "source": "glophi",
     "sort_key": "2027-02-04"
+  },
+  {
+    "date": "05.02.2027",
+    "title": "Research Talk on Scriptorics with Amr El Hawary, Leon Krings, and Osiris González Romero",
+    "location": "GloPhi",
+    "url": "https://www.uni-hildesheim.de/glophi/event/research-talk-on-scriptorics-with-amr-el-hawary-leon-krings-and-osiris-gonzalez-romero-2/",
+    "source": "glophi",
+    "sort_key": "2027-02-05"
   }
 ]
